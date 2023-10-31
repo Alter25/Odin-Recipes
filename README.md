@@ -1,2 +1,2 @@
-# Kitchen
+# Odin-Recipes
 sigo
