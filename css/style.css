@@ -1,0 +1,19 @@
+body {
+     background-color: #000;
+     color: white
+}
+
+
+p{
+    color: #FFFFFF;
+}
+
+
+h1{
+    font-size: 40px;
+    color: chocolate;
+}
+
+div {
+    width: 600px;
+}
