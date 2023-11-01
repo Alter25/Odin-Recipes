@@ -41,6 +41,23 @@ p{
     padding: 10px;
 
 }
+/*Spaghetti*/
+
+.topbar{
+    background-color: cornflowerblue;
+    padding-left: 10px 0;
+}
+.topbar nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.topbar nav ul li{
+    display: inline;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+
 /* this is a css comment*/
 /* existen tres tipos de box model en css */
 /*Margin:
