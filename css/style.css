@@ -46,6 +46,7 @@ p{
 .topbar{
     background-color: cornflowerblue;
     padding-left: 10px 0;
+    padding: 8px;
 }
 .topbar nav ul{
     list-style: none;
@@ -55,7 +56,9 @@ p{
 .topbar nav ul li{
     display: inline;
     padding-left: 10px;
-    margin-right: 20px;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 2px solid #000;
 }
 
 /* this is a css comment*/
