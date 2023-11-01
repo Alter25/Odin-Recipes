@@ -19,13 +19,28 @@ p{
     background-color:rgb(65, 56, 56);
     width: 800px;
     margin-left: 100px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(128, 106, 106);
+    padding-left: 15px;
 }
 
 .highlight{
-    background: yellow;
-    color: red;
+    background: rgb(0, 0, 0);
+    color: rgb(252, 0, 0);
 }
 
+
+.cuerpo{
+    background-color:cadetblue;
+    width: 500px;
+    margin-left: 250px;
+    border-width: 1;
+    border-color: white;
+    border-style: solid;
+    padding: 10px;
+
+}
 /* this is a css comment*/
 /* existen tres tipos de box model en css */
 /*Margin:
