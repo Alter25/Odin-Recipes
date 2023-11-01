@@ -15,5 +15,10 @@ h1{
 }
 
 .top-section{
-    background-color:rgb(68, 43, 43);
+    background-color:rgb(65, 56, 56);
+}
+
+.highlight{
+    background: yellow;
+    color: red;
 }
