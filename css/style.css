@@ -9,16 +9,26 @@ p{
 }
 
 
-h1{
+.titulo{
     font-size: 40px;
     color: chocolate;
+    margin-left: 400px;
 }
 
 .top-section{
     background-color:rgb(65, 56, 56);
+    width: 800px;
+    margin-left: 100px;
 }
 
 .highlight{
     background: yellow;
     color: red;
 }
+
+/* this is a css comment*/
+/* existen tres tipos de box model en css */
+/*Margin:
+  Border
+  Padding:
+*/
