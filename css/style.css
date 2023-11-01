@@ -60,7 +60,9 @@ p{
     margin-right: 10px;
     border-right: 2px solid #000;
 }
-
+.sp_body{
+    background-image: url(../img/moroccan.webp);
+}
 /* this is a css comment*/
 /* existen tres tipos de box model en css */
 /*Margin:
