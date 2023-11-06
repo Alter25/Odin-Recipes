@@ -1,3 +1,6 @@
+button{
+    font-family: 'Lato', sans-serif;
+}
 .bg-gray-900{
     background-color: #121826;
 }
@@ -7,6 +10,8 @@
 body{
     margin: 0;
     font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 .block{
     display: block;
@@ -49,6 +54,35 @@ body{
     padding-left: 16px;
     padding-right: 16px;
 }
+.py-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.px-28{
+    padding-left: 28px;
+    padding-right: 28px;
+}
 .font-lato{
     font-family: 'Lato', sans-serif;
+}
+.no-underline{
+    text-decoration: none;
+}
+.bg-brand-teal{
+    background-color: #539d98;
+}
+.border-none{
+    border: none;
+}
+.rounded-full{
+    border-radius: 99px;
+}
+.font-bold{
+    font-weight: bold;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.text-sm{
+    font-size: 14px;
 }
