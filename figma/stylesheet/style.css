@@ -6,6 +6,7 @@
 }
 body{
     margin: 0;
+    font-family: 'Lato', sans-serif;
 }
 .block{
     display: block;
@@ -47,4 +48,7 @@ body{
 .px-16{
     padding-left: 16px;
     padding-right: 16px;
+}
+.font-lato{
+    font-family: 'Lato', sans-serif;
 }
