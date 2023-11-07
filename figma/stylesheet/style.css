@@ -13,6 +13,12 @@ body{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+h1{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
 .block{
     display: block;
 }
@@ -85,4 +91,28 @@ body{
 }
 .text-sm{
     font-size: 14px;
+}
+.w-full{
+    width: 100%;
+}
+.h-full{
+    height: 100%;
+}
+.relative{
+    position: relative;
+}
+.z-10{
+    z-index: 10;
+}
+.object-cover{
+    object-fit: cover;
+}
+.text-brand-teal{
+    color: #90cac7;
+}
+.text-brand-teal-dark{
+    color: #539d98
+}
+.bg-white{
+    background-color: white;
 }
